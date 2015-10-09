@@ -12,6 +12,6 @@
     </style>
 </head>
 <body>
-    <div style="width:100%;height:100px;background-color:#08c;text-align:center"><h1 style="line-height:100px;"><%=title1 %></h1></div>
+    <div style="width:100%;height:100px;background-color:#ff0000;text-align:center"><h1 style="line-height:100px;"><%=title1 %></h1></div>
 </body>
 </html>
